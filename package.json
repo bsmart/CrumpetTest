@@ -1,0 +1,11 @@
+{
+  "name": "oop-com",
+  "version": "0.1.0",
+  // devDependencies is an object with key => value pairs, tilde means it will install the most current patch of that version (major.minor.patch)
+  "devDependencies": {
+    "grunt": "~0.4.5", //key => value pair, key is the grunt plugin and value is the plugin version need to install
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.3.3",
+    "grunt-contrib-uglify": "~0.4.0"
+  }
+}
